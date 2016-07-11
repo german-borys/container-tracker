@@ -1,0 +1,16 @@
+{
+  "name": "container-tracker",
+  "version": "1.0.0",
+  "description": "Tracking and Managing Large Storage Containers",
+  "main": "server.js",
+  "author": "Borys German",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^7.0.1",
+    "mongoose": "^4.4.20",
+    "morgan": "^1.7.0"
+  }
+}
